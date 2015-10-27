@@ -2,4 +2,4 @@ Planet is red
 4th from sun
 rover
 Has 2 moons
-
+surface temp = -143C
