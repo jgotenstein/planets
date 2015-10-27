@@ -1,4 +1,5 @@
-red
+Planet is red
 4th from sun
 rover
+Has 2 moons
 
